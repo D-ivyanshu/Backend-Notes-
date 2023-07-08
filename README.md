@@ -2,16 +2,6 @@
 
 This repository is dedicated to the Backend Development with NodeJS. Here you will find key highlights/notes/code, reference material related to Backend Engineering, and much more. Join us on this journey to become a Backend developer with NodeJS.
 
-`Cousre Instructor` - [Sanket Singh](https://in.linkedin.com/in/singhsanket143) SWE II @ Google | Ex-SDE @ Linked[In]
-
-## 📝 How do I take notes before uploading them to GitHub?
-
-I prefer taking notes in bullet format, with subpoints providing explanations and additional reference material to solidify my understanding of the topic. **+** I use [Obsidian](https://obsidian.md/) for everything (Notes, Journal, Knowledge Management etc)
-
-## ✨ Notes Preview
-
-![notes](notes-snapshot.jpeg)
-
 ## 🏆 Lectures
 
 ### 📚 Advance JavaScript - Part 1
